@@ -1,0 +1,21 @@
+Diff quickly highlights all of the differences, even small ones that are hard to see.
+It can go through many lines very quickly.
+
+Having the complete history of a file shows how it evolved and changed over time.
+
+The pros of manual commits is that you have a chance to decide on logical units
+(not too big or too small)
+
+The cons of manual commits, is that you might forget to do it (takes discipline).
+There might be inconsistent use by different people on your team.
+
+Git allows tracking accross multiple files becasue it is designed for code, and multiple related files are common
+
+Google docs does not track accross multiple files, because the document is the logical unit: it's unlikelyh to make related cahanges in multiple docs.
+
+Git log shows the messages for each commit (and some stats)
+Git diff allows you to compare two committed files.
+
+Using version control would make you more confident in making changes to your code because you can keep track of changes and always go back to a working version
+
+I want to use git to keep track of my code and other documents and communicate with my team.
