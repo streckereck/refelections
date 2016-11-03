@@ -1,0 +1,6 @@
+When you init a file, it makes the supporting git hidden folders and supporting files.
+This is needed so you are ready to start using version control.
+
+The staging area provides an area to get organized. The working
+directory may contain other files that you don't want to include
+in version control (e.g. temporary output)
