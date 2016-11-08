@@ -3,4 +3,15 @@ This is needed so you are ready to start using version control.
 
 The staging area provides an area to get organized. The working
 directory may contain other files that you don't want to include
-in version control (e.g. temporary output)
+in version control (e.g. temporary output
+
+The staging area can be used by adding one file at a time and reviewing the differences
+
+Branches can be used when adding a new or experimental feature, or a major change.
+
+Diagrams can help lots in figurying out branch structure, by showing connections and diversions.
+
+The result of merging two branches together was combinging all of the lines where there was no conflict.
+
+Automatic merging can help organize tedious concurrent changes.
+However, it could be confusing or difficult to resolve.
