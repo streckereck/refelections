@@ -1,1 +1,6 @@
 
+You would want to use a remote repository, instead of working locally:
+  - to keep you work backed up in another location
+  - to share files between different computers
+  - to collaborate with other people over the Internet
+  - to share things with other people
